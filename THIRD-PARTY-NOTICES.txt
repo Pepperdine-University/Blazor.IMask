@@ -1,0 +1,9 @@
+This package includes the browser distribution of IMask.js.
+
+Package: imask
+Version: 7.6.1
+Source: https://www.npmjs.com/package/imask
+License: MIT
+License file: src/Pepperdine.Blazor.IMask/wwwroot/vendor/LICENSE.imask.txt
+
+The IMask.js license is included beside the vendored static asset in the package.

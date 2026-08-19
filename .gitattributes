@@ -1,0 +1,11 @@
+* text eol=crlf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.snk binary
+*.nupkg binary
+*.snupkg binary
