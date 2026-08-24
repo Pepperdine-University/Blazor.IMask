@@ -7,7 +7,7 @@
     <PackageId>Pepperdine.Blazor.IMask</PackageId>
     <AssemblyName>Pepperdine.Blazor.IMask</AssemblyName>
     <RootNamespace>Pepperdine.Blazor.IMask</RootNamespace>
-    <Version>1.0.0</Version>
+    <Version>0.0.0-local</Version>
     <Company>Pepperdine University</Company>
     <Description>Add IMask.js input masking to Blazor and ASP.NET Core fields.</Description>
     <PackageTags>blazor;aspnetcore;imask;inputmask;masking;razor</PackageTags>
